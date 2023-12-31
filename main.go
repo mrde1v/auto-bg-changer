@@ -73,7 +73,6 @@ func (s *myService) Start(svc service.Service) error {
 }
 
 func (s *myService) Stop(svc service.Service) error {
-	s.Stop(svc)
 	return nil
 }
 
