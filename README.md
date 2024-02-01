@@ -1,3 +1,5 @@
+# Not working, maybe some day I will fix it :sadge:
+
 # Automatic Background Changer
 
 Automatically changes background/wallpaper to random image from the specified folder on startup
